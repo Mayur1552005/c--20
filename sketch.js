@@ -15,7 +15,7 @@ function setup() {
   car. velocityX = speed;
 
 
-  wall = createSprite(1500,200,60,height/2);
+  wall = createSprite(1400,200,60,height/2);
 }
 
 function draw() {
